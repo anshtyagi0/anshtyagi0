@@ -29,6 +29,8 @@
    <a href="https://github.com/anshtyagi0"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anshtyagi0&bg_color=0D1117&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" />
     </a>
 </p>
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3137gccuo6mgc6qcjygbo7vgndmu&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=3137gccuo6mgc6qcjygbo7vgndmu&redirect=true)
 
 ![](https://komarev.com/ghpvc/?username=anshtyagi0&style=flat-square)
 ![status](https://dev.discordprofiles.me/badge/status/671390595184459782?style=flat-square)
