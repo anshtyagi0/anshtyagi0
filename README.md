@@ -9,8 +9,8 @@
         <img src="./Banner.png" />
     </a>
 <p align="centre"> 
-<a href="https://twitter.com/bhbotlist"> <img width="30px" src="https://raw.githubusercontent.com/anshtyagi0/anshtyagi0/main/icons8-twitter-100.png" title="Twitter"/></a>
-<a href="https://bhbotlist.tech/user/671390595184459782"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-website-100.png" title="Profile"/></a>
+<a href="https://twitter.com/tyagiansh175"> <img width="30px" src="https://raw.githubusercontent.com/anshtyagi0/anshtyagi0/main/icons8-twitter-100.png" title="Twitter"/></a>
+<a href="https://www.anshtyagi.me"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-website-100.png" title="Profile"/></a>
 <a href="mailto: tyagiansh175@gmail.com"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-email-100.png" title="Email"/> </a><br>
 </p>
 
