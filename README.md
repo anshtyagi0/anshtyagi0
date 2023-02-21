@@ -26,8 +26,6 @@
     <a href="https://github.com/anshtyagi0/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=anshtyagi0&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
-   <a href="https://github.com/anshtyagi0"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anshtyagi0&bg_color=0D1117&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" />
-    </a>
 </p>
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3137gccuo6mgc6qcjygbo7vgndmu&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=3137gccuo6mgc6qcjygbo7vgndmu&redirect=true)
