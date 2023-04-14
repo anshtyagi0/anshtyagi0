@@ -28,7 +28,7 @@
     </a>
 </p>
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3137gccuo6mgc6qcjygbo7vgndmu&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=3137gccuo6mgc6qcjygbo7vgndmu&redirect=true)
+[![spotify-github-profile](https://spotify-widget.vercel.app/current/3137gccuo6mgc6qcjygbo7vgndmu)](https://spotify-github-profile.vercel.app/api/view?uid=3137gccuo6mgc6qcjygbo7vgndmu&redirect=true)
 
 ![](https://komarev.com/ghpvc/?username=anshtyagi0&style=flat-square)
 ![status](https://dev.discordprofiles.me/badge/status/671390595184459782?style=flat-square)
