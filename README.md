@@ -15,7 +15,7 @@
 &nbsp;
 <p align="center">
     <a href="https://github.com/anshtyagi0"><img src="https://github-widgetbox.vercel.app/api/profile?username=anshtyagi0&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="anshtyagi0 Profile WidgetBox"></a>
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,python,linux,html,mysql,windows,markdown&amp;theme=darkmode" alt="anshtyagi Skills WidgetBox">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,python,linux,html,mysql,windows,nodejs&amp;theme=darkmode" alt="anshtyagi Skills WidgetBox">
 </p>
  
 ## 🔖 My Statistics
